@@ -1,0 +1,20 @@
+body {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.points {
+  font-size: 2rem;
+}
+
+.points p {
+  margin: 0;
+}
+
+.logo {
+  height: 540px;
+  background: url("../img/2.jpg") no-repeat center;
+}
+.canvas {
+  border: black 15px solid;
+}
